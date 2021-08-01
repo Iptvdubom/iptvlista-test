@@ -1,10 +1,65 @@
 #EXTM3U
-
-EXTINF: -1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-4.png" group-title="Canais Abertos", Globo
-https://cdn-cdn-tibagi.ciclano.io:1443/cdn-tibagi/cdn-tibagi/chunklist_w369467680.m3u8
-EXTINF: -1 tvg-logo="https://diariodorio.com/wp-content/uploads/2020/07/600px-Logotipo_do_SBT.svg.png" group-title="Canais Abertos", SBT
-https://edge-aws.aovivotv.xyz/hls/s:88.198.163.51/sbtsp_2a5ac580_3b3ee55b92e433d61b2b83061d2ddf4811091c19/playlist.m3u8?jsf=YTozOntpOjA7czoxMjoiMTcyLjY4LjI1LjM0IjtpOjE7czoxMTU6Ik1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS85MS4wLjQ0NzIuMTI0IFNhZmFyaS81MzcuMzYiO2k6MjtpOjE2MjY1NTYwOTQ7fQ%3D%3D
-EXTINF: -1 tvg-logo="https://logodownload.org/wp-content/uploads/2014/02/band-logo-tv.png" group-title="Canais Abertos", BAND
-https://edge-aws.aovivotv.xyz/hls/s:78.47.27.206/band_49e3d046_29dd3e6d370c230b11b5b58047f1f8a6a60cf46d/playlist.m3u8?jsf=YTozOntpOjA7czoxMjoiMTcyLjY4LjI0LjgxIjtpOjE7czoxMTU6Ik1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS85MS4wLjQ0NzIuMTI0IFNhZmFyaS81MzcuMzYiO2k6MjtpOjE2MjY1NTYyOTI7fQ%3D%3D
-EXTINF: -1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/redetv-logo.png" group-title="Canais Abertos", REDE TV!
-https://edge-aws.aovivotv.xyz/hls/s:88.198.239.170/redetv_45cbe19f_3edad3d8355ec93ef0c4cb4383d45c619b9fccd2/playlist.m3u8?jsf=YTozOntpOjA7czoxMzoiMTcyLjY4LjI0LjEyOSI7aToxO3M6MTE1OiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvOTEuMC40NDcyLjEyNCBTYWZhcmkvNTM3LjM2IjtpOjI7aToxNjI2NTU2NDE0O30%3D
+#EXTINF:-1,WARNER CHANNEL HD
+http://solutionplay.xyz:8080/techruthes/89951662/6486
+#EXTINF:-1,MEGAPIX HD
+http://solutionplay.xyz:8080/techruthes/89951662/6457
+#EXTINF:-1,A&E HD
+http://solutionplay.xyz:8080/techruthes/89951662/6427
+#EXTINF:-1,RECORD SP HD
+http://solutionplay.xyz:8080/techruthes/89951662/6358
+#EXTINF:-1,HGTV HD
+http://solutionplay.xyz:8080/techruthes/89951662/6081
+#EXTINF:-1,NATGEO KIDS HD
+http://solutionplay.xyz:8080/techruthes/89951662/5973
+#EXTINF:-1,HBO HD
+http://solutionplay.xyz:8080/techruthes/89951662/5948
+#EXTINF:-1,CARTOON NETWORK HD
+http://solutionplay.xyz:8080/techruthes/89951662/5860
+#EXTINF:-1,SBT SP HD
+http://solutionplay.xyz:8080/techruthes/89951662/6368
+#EXTINF:-1,BAND SP HD
+http://solutionplay.xyz:8080/techruthes/89951662/6326
+#EXTINF:-1,GLOBO NEWS HD
+http://solutionplay.xyz:8080/techruthes/89951662/6108
+#EXTINF:-1,RECORD NEWS FHD
+http://solutionplay.xyz:8080/techruthes/89951662/6104
+#EXTINF:-1,GNT HD
+http://solutionplay.xyz:8080/techruthes/89951662/6076
+#EXTINF:-1,COMEDY CENTRAL HD
+http://solutionplay.xyz:8080/techruthes/89951662/6070
+#EXTINF:-1,GLOOB HD
+http://solutionplay.xyz:8080/techruthes/89951662/5935
+#EXTINF:-1,TELECINE FUN FHD
+http://solutionplay.xyz:8080/techruthes/89951662/6034
+#EXTINF:-1,REDE TV FHD
+http://solutionplay.xyz:8080/techruthes/89951662/6331
+#EXTINF:-1,PrimePlay Music (EM FASE DE TESTES)
+http://solutionplay.xyz:8080/techruthes/89951662/13873
+#EXTINF:-1,GLOBO SP HD
+http://solutionplay.xyz:8080/techruthes/89951662/6259
+#EXTINF:-1,FOX HD
+http://solutionplay.xyz:8080/techruthes/89951662/6439
+#EXTINF:-1,SONY HD
+http://solutionplay.xyz:8080/techruthes/89951662/6463
+#EXTINF:-1,SPACE HD
+http://solutionplay.xyz:8080/techruthes/89951662/6466
+#EXTINF:-1,BOOMERANG HD
+http://solutionplay.xyz:8080/techruthes/89951662/5856
+#EXTINF:-1,NICKELODEON HD
+http://solutionplay.xyz:8080/techruthes/89951662/5985
+#EXTINF:-1,ANIMAL PLANET HD
+http://solutionplay.xyz:8080/techruthes/89951662/5848
+#EXTINF:-1,DISCOVERY CHANNEL HD
+http://solutionplay.xyz:8080/techruthes/89951662/5875
+#EXTINF:-1,H2 HD
+http://solutionplay.xyz:8080/techruthes/89951662/5939
+#EXTINF:-1,HISTORY CHANNEL HD
+http://solutionplay.xyz:8080/techruthes/89951662/5966
+#EXTINF:-1,MULTISHOW HD
+http://solutionplay.xyz:8080/techruthes/89951662/6086
+#EXTINF:-1,LOADING HD
+http://solutionplay.xyz:8080/techruthes/89951662/6197
+#EXTINF:-1,EVANGELIZAR HD
+http://solutionplay.xyz:8080/techruthes/89951662/5921
+#EXTINF:-1,TV APARECIDA HD
+http://solutionplay.xyz:8080/techruthes/89951662/6047
